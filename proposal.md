@@ -34,11 +34,11 @@ Regularidad:
 |CRUD simple|1. CRUD Circuito<br>2. CRUD Escudería<br>3. CRUD Temporada<br>4. CRUD Categoría<br>5. CRUD Piloto|
 |CRUD dependiente|1. CRUD Carrera {depende de} CRUD Circuito<br>|
 |Listado<br>+<br>detalle| 1. Listado de pilotos, puede ser filtrado por escudería. Muestra nombre completo del piloto y su foto => detalle muestra todos los datos del circuito <br> 2. Listado de circuitos, puede ser filtrado por continente o por tipo de circuito. Muestra nombre del circuito y su trazado => detalle muestra todos los datos del circuito.<br>3. Listado de temporada, muestra todas las carreras (grandes premios) agendadas de una temporada ⇒ detalle muestra todos los detalles de una carrera.|
-|CUU/Epic|1. Usuario revisa el calendario actual.<br>2. Usuario mira todas las escuderías.<br>3. Usuario revisa información de un piloto.|
+|CUU/Epic|1. Mostrar próximas carreras al usuario.<br>2. Usuario selecciona su escudería favorita.<br>3. Usuario lee información de una carrera.|
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario.<br>2. CRUD Post.|
 |Listado<br>+<br>detalle|1. Listado de posts, muestra los posts del foro, ordenados por fecha de publicación.
-|CUU/Epic|1. Usuario realiza un post en el foro.<br>2. Usuario comenta en un post de otro usuario.|
+|CUU/Epic|1. Usuario realiza un post en el foro.<br>2. Usuario administrador elimina un post.|
