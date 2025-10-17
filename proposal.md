@@ -22,7 +22,7 @@ Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podr
 
 ### Modelo
 
-![Imagen del modelo](https://github.com/GupCus/tp/blob/main/MD%20Descalifica2.drawio.png?raw=true)
+![Imagen del modelo](https://github.com/GupCus/tp/blob/main/ModeloBDDescalifica2.drawio.jpg?raw=true)
 
 ## Alcance Funcional
 
@@ -34,7 +34,7 @@ Regularidad:
 |CRUD simple|1. CRUD Circuito<br>2. CRUD Escudería<br>3. CRUD Temporada<br>4. CRUD Categoría|
 |CRUD dependiente|1. CRUD Carrera<br>2. CRUD Sesion <br>3. CRUD Piloto|
 |Listado<br>+<br>detalle| 1. Listado de pilotos, puede ser filtrado por escudería. Muestra nombre completo del piloto y su foto => detalle muestra todos los datos del circuito <br> 2. Listado de circuitos, puede ser filtrado por continente o por tipo de circuito. Muestra nombre del circuito y su trazado => detalle muestra todos los datos del circuito.<br>3. Listado de temporada, muestra todas las carreras (grandes premios) agendadas de una temporada ⇒ detalle muestra todos los detalles de una carrera.|
-|CUU/Epic|1. EPIC Mostrar próximas carreras al usuario.<br>2. EPIC Moderador carga información sobre una nueva sesión.<br>3. EPIC Moderador carga resultados de una sesión.<br>4. CUU Usuario lee información de una carrera.<br>5. EPIC Post.|
+|CUU/Epic|1. EPIC Mostrar próximas carreras al usuario.<br>2. EPIC Moderador carga información sobre una nueva sesión.<br>3. EPIC Moderador carga resultados de una sesión.<br>4. CUU Usuario lee información de una carrera.|
 
 Adicionales para Aprobación
 |Req|Detalle|
