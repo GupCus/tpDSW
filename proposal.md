@@ -22,8 +22,7 @@ Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podr
 
 ### Modelo
 
-![Imagen del modelo](https://github.com/GupCus/tp/blob/main/ModeloBDDescalifica2.drawio.jpg?raw=true)
-
+![Imagen del modelo](https://github.com/GupCus/tpDSW/blob/main/ModeloBDDescalifica2.jpg)
 ## Alcance Funcional
 
 ### Alcance Mínimo
