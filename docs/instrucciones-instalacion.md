@@ -13,7 +13,7 @@ Para poder correr este proyecto es necesario tener instalado:
 
 ---
 
-## 1. Backend
+## 1\. Backend
 
 1. **Ubicarse en el directorio del backend:**
    Desde la raíz del proyecto, ingresa a la carpeta del backend.
@@ -61,7 +61,7 @@ Para poder correr este proyecto es necesario tener instalado:
 
 ---
 
-## 2. Frontend
+## 2\. Frontend
 
 1. **Ubicarse en el directorio del frontend:**
    Desde la raíz del proyecto, abre otra terminal e ingresa a la carpeta del frontend.

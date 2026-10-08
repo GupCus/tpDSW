@@ -1,0 +1,17 @@
+# Windows / System files
+*.ini
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Temporary files
+*.tmp
+
+# Google Drive sync & metadata
+.tmp.drivedownload/
+.tmp.driveupload/
+*.drivedownload/
+*.driveupload/
+*.gdoc
+*.gsheet
+*.gslides

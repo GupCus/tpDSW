@@ -1,23 +1,23 @@
-# TP DSW
+# TP FINAL DSW
 
 # 🏎️ descalifica2 🏎️
 
 ### 👥Integrantes
 
-- 52818 - Barroso Bollero, Agustín
-- 52962 - Taborda, Ignacio
-- 52961 - Figueroa, Francisco Alejandro
-- 52847 - Taborda, Santiago
+- 52818 \- Barroso Bollero, Agustín
+- 52962 \- Taborda, Ignacio
+- 52961 \- Figueroa, Francisco Alejandro
+- 52847 \- Taborda, Santiago
 
-**Cursando en:** UTN FRRo, Catedra DSW, ISI 303 2025.
+**Cursado en:** UTN FRRo, Catedra DSW, ISI 303 2025\.
 
 ### 📝 Descripción
 
-Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podrás consultar el calendario de carreras, acceder a información detallada sobre cada evento y mantenerte al día con las noticias sobre automovilismo. El objetivo del sitio es mantener informada a toda la comunidad amante del deporte automotor, brindando las fechas de cada Gran Premio, dónde verlo en vivo, y datos sobre las escuderías participantes junto a sus pilotos. Los usuarios pueden crear un perfil personalizado, indicando su nombre, escuderías, circuitos y pilotos favoritos para adaptar su experiencia en la plataforma. Además, podrán participar en un foro donde intercambiar opiniones, debatir y compartir su pasión con otros fanáticos de la Fórmula 1.
+Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podrás consultar el calendario de carreras, acceder a información detallada sobre cada evento y mantenerte al día con las noticias sobre automovilismo. El objetivo del sitio es mantener informada a toda la comunidad amante del deporte automotor, brindando las fechas de cada Gran Premio, dónde verlo en vivo, y datos sobre las escuderías participantes junto a sus pilotos. Los usuarios pueden crear un perfil personalizado, indicando su nombre, escuderías, circuitos y pilotos favoritos para adaptar su experiencia en la plataforma. Además, podrán participar en un foro donde intercambiar opiniones, debatir y compartir su pasión con otros fanáticos de la Fórmula 1\.
 
 ## ℹ️ Más información del proyecto
 
-- 🛠️ **Tecnologías:** Node.js + Typescript, Express, MikroORM; React + Javascript.
+- 🛠️ **Tecnologías:** Node.js \+ Typescript, Express, MikroORM; React \+ Javascript.
 - **Nuestro proposal:** [tp/proposal.md](https://github.com/GupCus/tp/blob/main/proposal.md)
 - **Repo front:** [descalifica2-front](https://github.com/GupCus/descalifica2-front)
 - **Repo back:** [descalifica2-back](https://github.com/GupCus/descalifica2-back)
@@ -27,23 +27,25 @@ Descalifica2 es un sitio web dedicado principalmente a la Fórmula 1, donde podr
 <details>
 <summary>📄 <b>Ver README original del fork</b></summary>
 
+&nbsp;
+
 # TP DSW
 
-tags: #dsw #tp
+tags: \#dsw \#tp
 
 Status: draft
 
-## 1. Objetivo
+## 1\. Objetivo
 
 Desarrollar en grupo una aplicación web full stack en base a un alcance propuesto por los integrantes.
 
 Durante dicho desarrollo se deberá aplicar todo lo aprendido en la materia Desarrollo de Software.
 
-## 2. Tema y Alcance
+## 2\. Tema y Alcance
 
-El grupo debe deberá proponer a los docentes un tema para el trabajo práctico de su preferencia utilizando la [plantilla de propuesta](proposal.md)
+El grupo debe deberá proponer a los docentes un tema para el trabajo práctico de su preferencia utilizando la [plantilla de propuesta](http://proposal.md)
 
-## 3. Requisitos
+## 3\. Requisitos
 
 El desarrollo de la aplicación debe:
 
@@ -95,7 +97,7 @@ El frontend debe cumplir con las siguientes condiciones para regularidad y aprob
 - Desarrollarse utilizando un framework de Frontend.
 - Utilizar HTML5
 - Utilizar CSS según las directrices de alguna biblioteca de componentes, guía de estilo o framework de CSS y la metodología propuesta por el framework de frontend elegido. Se sugiere el uso de biblioteca de componentes; preprocesadores: sass, scss, less, stylus, etc o frameworks de css: Pico.css, Bulma, Material, Tailwind, Bootstrap, etc.
-- Guía de estilos sugerida Airbnb Javascript https://github.com/airbnb/javascript
+- Guía de estilos sugerida Airbnb Javascript [https\://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 - Aplicar la estrategia mobile-first para la escritura del código css de la aplicación
 - La app debe visualizarse correctamente en al menos 3 diferentes breakpoints: SM, MD, LG
 - Seguir buenas prácticas de UX/UI (Que no requiera manual de usuario o explicaciones específicas para utilizar la interfaz)
@@ -133,8 +135,7 @@ La app debe cumplir con los siguientes requisitos.
 #### Aprobación Directa o en Examen
 
 - CRUDs de todas las clases de negocio necesarias para el funcionamiento de la app.
-- Implementar 1 caso de uso usuario o epic, con valor para el negocio, por cada integrante.
-  Se deben implementar un mínimo de 2 relacionados entre si. Es decir que la data registrada por uno CU o epic sirva de input para otro.
+- Implementar 1 caso de uso usuario o epic, con valor para el negocio, por cada integrante. Se deben implementar un mínimo de 2 relacionados entre si. Es decir que la data registrada por uno CU o epic sirva de input para otro.
 
 #### Alcance Adicional Voluntario
 
@@ -170,10 +171,9 @@ En la entrega se debe enviar:
 - Credenciales para utilizar la aplicación deployada
 - Contacto para coordinar la defensa
 
-El envío se debe realizar por el form https://kutt.it/DSWEntregaSistemaFinal y coordinar con el docente una defensa grupal con los profesores.
+El envío se debe realizar por el form [https\://kutt.it/DSWEntregaSistemaFinal](https://kutt.it/DSWEntregaSistemaFinal) y coordinar con el docente una defensa grupal con los profesores.
 
-Para la Aprobación Directa la defensa debe pactarse con los docentes dentro de los plazos indicados a continuación.
-Para la Aprobación en Examen la defensa debe pactarse con los docentes y realizarse antes de la fecha de la mesa de examen.
+Para la Aprobación Directa la defensa debe pactarse con los docentes dentro de los plazos indicados a continuación. Para la Aprobación en Examen la defensa debe pactarse con los docentes y realizarse antes de la fecha de la mesa de examen.
 
 #### Fechas de entrega
 
@@ -191,9 +191,9 @@ Para la Aprobación en Examen la defensa debe pactarse con los docentes y realiz
 
 La documentación debe presentarse para la instancia de defensa.
 
-Para conocer el detalle de la documentación referirse a [docs](docs.md).
+Para conocer el detalle de la documentación referirse a [docs](http://docs.md).
 
-## 4. Gestión del proyecto
+## 4\. Gestión del proyecto
 
 **TODO: En revisión**
 
@@ -207,7 +207,7 @@ El grupo deberá llevar un registro de lo realizado, el mismo debe incluir como 
 
 Es de libre elección del alumno la herramienta a utilizar para el trackeo. Se recomienda el uso de github/gitlab proyects para integrar con el desarrollo de la misma pero en caso de utilizar otra en la documentación deberán incluirse los links a la tool para ello.
 
-## 5. Evaluación
+## 5\. Evaluación
 
 Durante la evaluación de cada entrega se considerarán:
 
@@ -222,8 +222,8 @@ Durante la evaluación de cada entrega se considerarán:
 - Innovación, investigación y desafíos asumidos.
 - Documentación solicitada.
 
-## 6. FAQ
+## 6\. FAQ
 
-En la sección de [FAQ](FAQ.md) podrán encontrar respuestas a las consultas más frecuentes que se van realizando.
+En la sección de [FAQ](http://FAQ.md) podrán encontrar respuestas a las consultas más frecuentes que se van realizando.
 
 </details>
