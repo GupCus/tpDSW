@@ -1,7 +1,5 @@
 # Gestión de Proyecto y Metodología
 
-Para el desarrollo del sistema **Descalifica2**, el equipo de trabajo optó por aplicar **Scrum** como marco de trabajo de metodología ágil. Esto nos permitió organizar las tareas, dividirlas equitativamente y realizar un seguimiento constante de los avances y posibles bloqueos.
-
 Para el desarrollo del sistema **Descalifica2**, el equipo de trabajo optó por aplicar la metodología SCRUM y la realización de reuniones eventuales con el objetivo de organizar las tareas, dividirlas equitativamente y realizar un seguimiento constante de los avances y soluciones a posibles bloqueos.
 
 ## Tracking de Tareas
