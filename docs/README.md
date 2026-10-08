@@ -16,3 +16,4 @@ La siguiente es la documentación final del proyecto
 3. [Gestión de Proyecto y Metodología](./gestion-proyecto.md)
 4. [Documentación de la API (REDIRIGE AL SWAGGER)](https://descalifica2.up.railway.app/api/docs/)
 5. [Evidencia de Ejecución de Tests](./evidencia-testing.md)
+6. [Capturas del front](./capturas.md)
